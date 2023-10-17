@@ -1,0 +1,7 @@
+{
+  "name": "aspireAssessment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
